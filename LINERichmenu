@@ -1,0 +1,8 @@
+<div style="position: relative; width: 100vw; max-width: 100%; height: auto; overflow: hidden;">
+  <iframe loading="lazy"
+    style="position: relative; width: 100%; height: 380vw; /* 讓高度按比例縮放 */
+    top: 0; left: 0; border: none; padding: 0; margin: 0;"
+    src="https://www.canva.com/design/DAGeBq8fP0Y/usQCQkKv0mjeir7YWsVrxg/watch?embed"
+    allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
